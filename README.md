@@ -1,6 +1,6 @@
 # azure-link-documentation
 
-Documenation links (non exhaustive) per service and topic covering the 5 Cloud pillars
+Documentation links (non exhaustive) per service and topic covering the 5 Cloud pillars
 
 ## Azure Data Factory ##
 **Operational Excellence**
